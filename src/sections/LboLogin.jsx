@@ -53,7 +53,7 @@ const LboLogin = () => {
             type="submit"
             className="w-full py-2 px-4 bg-yellow-600 md:text-4xl hover:bg-yellow-700 text-white font-unifraktur rounded transition-colors"
           >
-            Login to LBO
+            Login to Merceneries
           </button>
         </form>
       </div>

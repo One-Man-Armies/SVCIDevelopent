@@ -57,10 +57,10 @@ const Navbar = ({ onNavigate }) => {
                         <a 
                             href="#" 
                             className="text-neutral-400 font-bold text-xl hover:text-white transition-colors shine-effect"
-                            data-nav-item="LBO"
+                            data-nav-item="Merceneries"
                             onClick={(e) => handleSpecialNavClick(e, 'Line048')}
                         >
-                            LBO
+                            Merceneries
                         </a>
                     </div>
 
